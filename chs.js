@@ -82,7 +82,7 @@ var cnItems = {
     "You cannot level up until this boss is defeated!": "在打败这个Boss之前，你不能升级！",
     "Equipped:": "已装备:",
     "Lasers:": "激光:",
-    "": "",
+    "BUY": "购买",
     "": "",
     "": "",
     "": "",
